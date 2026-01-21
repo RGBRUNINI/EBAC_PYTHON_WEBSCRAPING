@@ -1,0 +1,4 @@
+Os arquivos das malhas geograficas (.shp), para gerar os mapas são muito grandes para enviar ao Github, então baixe manualmente pelo Link: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html > Brasil > Municípios.
+E descompacte o arquivo .zip nesta pasta.
+
+![alt text](image.png)
